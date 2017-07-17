@@ -12,6 +12,8 @@
            <input style="display: none;" type="text" value="2" name="tipo" /> 
            Ano: <input type="text" name="ano">
            Valor:<input type="text" name="valor">
+           Descrição:
+           Linha:<input type="text" name="linha">
            <button type="submit">Enviar</button>
         </form>
     </body>
